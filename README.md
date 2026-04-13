@@ -1,5 +1,19 @@
 # mtsd-simulador01
 
+<div align="center">
+
+![](demo.jpg)
+
+</div>
+
+## Modo de uso
+
+```
+./raspar -m <intentos>
+```
+
+
+
 Para compilar el simulador con gcc:
 
 ```
